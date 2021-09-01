@@ -6,4 +6,6 @@ import org.springProject.entity.Student;
 
 public interface StudentService {
 	List<Student> getAllStudent();
+
+	void saveStudent(Student student);
 }
