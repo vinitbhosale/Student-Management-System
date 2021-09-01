@@ -1,5 +1,9 @@
 package org.springProject.service;
 
-public interface StudentService {
+import java.util.List;
 
+import org.springProject.entity.Student;
+
+public interface StudentService {
+	List<Student> getAllStudent();
 }
