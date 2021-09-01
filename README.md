@@ -1,4 +1,4 @@
-# StudentManagementSystem
+# Student Management System
 <br />
 Build a CRUD operation for the Student entity in our Student Management System web application
 <p align=left>
