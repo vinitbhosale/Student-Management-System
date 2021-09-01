@@ -13,4 +13,6 @@ public interface StudentService {
 	
 	Student updateStudentInfo(Student student);
 	
+	void deleteStudentById(Long id);
+	
 }
