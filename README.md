@@ -1,6 +1,6 @@
 # Student Management System
 <br />
-Build a CRUD operation for the Student entity in our Student Management System web application
+Build a CRUD operation for the Student entity in our Student Management System web application hosted using AWS service
 <p align=left>
 <img alt="main page" width="500px" src="https://1.bp.blogspot.com/-Bez0drTwVL4/YI5wUMUZjdI/AAAAAAAAIq8/NZGGF7AyU5QvnAei8OdOFpSt5XydcWkhgCLcBGAsYHQ/s16000/list-students-javaguides.png" />
 </p>
@@ -17,6 +17,8 @@ Build a CRUD operation for the Student entity in our Student Management System w
  - Eclipse STS
  - HTML5
  - Bootstrap
+ - AWS RDS
+ - AWS Elastic Beanstalk
 
 
 ## Dependencies
